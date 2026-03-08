@@ -43,7 +43,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 
 ## 🛠 Tools & Technologies
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
