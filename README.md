@@ -45,7 +45,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 **Performance & Optimization**
 - WP Rocket
@@ -55,7 +55,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - Perfmatters
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 **WordPress Development**
 - Elementor
@@ -67,7 +67,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td  valign="top">
 
 **Infrastructure**
 - LiteSpeed
@@ -75,7 +75,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - Nginx
 
 </td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **Security**
 - Malware scanning tools
