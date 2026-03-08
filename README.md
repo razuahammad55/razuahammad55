@@ -4,111 +4,110 @@
 🔐 **WordPress Security & Malware Removal Specialist**  
 🎨 **Elementor Website Designer**
 
-💼 Full-time Freelancer on **Upwork** & **Fiverr**
+I help businesses build **fast, secure, and modern WordPress websites**.
 
-I help businesses build **modern, fast, and secure WordPress websites**.  
-From **designing professional websites with Elementor**, to **fixing hacked sites**, to **optimizing performance for 90+ PageSpeed scores** — I focus on delivering stable, high-quality solutions.
+From **designing professional Elementor websites**, to **fixing hacked WordPress sites**, to **optimizing performance for 90+ PageSpeed scores**, I focus on delivering reliable, long-term solutions.
 
 ---
 
-# ⚡ My Core Expertise
+## ⚡ My Core Expertise
 
 ### 🚀 WordPress Speed Optimization
-- PageSpeed Insights & Core Web Vitals optimization
-- Mobile & desktop performance improvements
-- WP Rocket advanced configuration
-- Cloudflare CDN integration
-- Database and asset optimization
-- Elementor performance tuning
+- PageSpeed Insights & Core Web Vitals optimization  
+- Mobile & desktop performance improvements  
+- WP Rocket advanced configuration  
+- Cloudflare CDN integration  
+- Database & asset optimization  
+- Elementor performance tuning  
 
 ### 🔐 WordPress Security & Malware Removal
-- Fix hacked WordPress websites
-- Malware cleanup (files & database)
-- Backdoor removal and security hardening
-- Brute force protection
-- Two-Factor Authentication (2FA)
-- Vulnerability scanning (Patchstack database)
-- File change monitoring
-- Secure backup configuration
+- Fix hacked WordPress websites  
+- Malware cleanup (files & database)  
+- Backdoor removal and security hardening  
+- Brute force protection  
+- Two-Factor Authentication (2FA)  
+- Vulnerability scanning (Patchstack database)  
+- File change monitoring  
+- Secure backup configuration  
 
 ### 🎨 WordPress Website Design (Elementor)
-- Modern responsive website design
-- Figma / XD / PSD to WordPress conversion
-- WooCommerce eCommerce websites
-- Dynamic websites using **JetEngine**
-- Booking & appointment websites using **JetBooking**
-- Charity & non-profit websites
-- Business and agency websites
+- Modern responsive website design  
+- Figma / XD / PSD to WordPress conversion  
+- WooCommerce eCommerce websites  
+- Dynamic websites using **JetEngine**  
+- Booking systems using **JetBooking**  
+- Charity & non-profit websites  
+- Business and agency websites  
 
 ---
 
-# 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
-**Performance & Optimization**
-- WP Rocket
-- Cloudflare CDN
-- GTmetrix
-- PageSpeed Insights
-- Perfmatters
+<table>
+<tr>
+<td valign="top">
 
-**WordPress Development**
-- Elementor
-- WooCommerce
-- JetEngine
-- JetBooking
+### ⚡ Performance
+- WP Rocket  
+- Perfmatters  
+- Cloudflare CDN  
+- GTmetrix  
+- PageSpeed Insights  
 
-**Infrastructure**
-- LiteSpeed
-- Apache
-- Nginx
+</td>
+<td valign="top">
 
-**Security**
-- Malware scanning tools
-- WordPress hardening solutions
-- Security monitoring systems
+### 🎨 WordPress
+- Elementor  
+- WooCommerce  
+- JetEngine  
+- JetBooking  
+
+</td>
+<td valign="top">
+
+### 🔐 Security
+- Malware Scanning Tools  
+- WordPress Hardening  
+- Login Protection  
+- Security Monitoring  
+
+</td>
+<td valign="top">
+
+### ⚙ Infrastructure
+- LiteSpeed  
+- Apache  
+- Nginx  
+- CDN Integration  
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Proven Results
-
-- PageSpeed improvements from **20–30 → 95–99**
-- Websites loading in **~1 second**
-- Stable optimization without breaking functionality
-- Clean, secure WordPress environments
-- Modern, responsive website designs
-
----
-
-# 🌍 Freelance Platforms
-
-I work with clients worldwide through:
-
-🟢 **Upwork** – Long-term collaborations & technical projects  
-🟢 **Fiverr** – Speed optimization, security & website services
-
----
-
-# 🤝 My Work Philosophy
+## 🤝 Work Approach
 
 ✔ Clean and stable solutions  
 ✔ Performance and security focused  
 ✔ Modern, user-friendly design  
-✔ Honest communication and reliable delivery
+✔ Honest communication and reliable delivery  
 
-I believe a great website should be **fast, secure, and professionally designed**.
+I believe a professional website should be **fast, secure, and visually modern**.
 
 ---
 
-# 📫 Let’s Connect
+## 📫 Let’s Connect
 
 If you need help with:
 
-- WordPress speed optimization
-- Fixing a hacked website
-- Designing a professional Elementor website
+- WordPress speed optimization  
+- Fixing a hacked website  
+- Designing a professional Elementor website  
 
-Feel free to connect with me through **Upwork or Fiverr**.
+Feel free to reach out.
 
 ---
 
-⭐ *Fast websites perform better. Secure websites build trust.*
+⭐ **Fast websites perform better. Secure websites build trust.**
