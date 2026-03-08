@@ -54,6 +54,9 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - PageSpeed Insights
 - Perfmatters
 
+</td>
+<td width="50%" valign="top">
+
 **WordPress Development**
 - Elementor
 - WooCommerce
@@ -61,13 +64,18 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - JetBooking
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 **Infrastructure**
 - LiteSpeed
 - Apache
 - Nginx
+
+</td>
+<td width="50%" valign="top">
 
 **Security**
 - Malware scanning tools
@@ -77,7 +85,6 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🤝 Work Approach
