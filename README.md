@@ -45,7 +45,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 
 <table>
 <tr>
-<td valign="top">
+<td  width="100%" valign="top">
 
 **Performance & Optimization**
 - WP Rocket
@@ -55,7 +55,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - Perfmatters
 
 </td>
-<td valign="top">
+<td  width="100%" valign="top">
 
 **WordPress Development**
 - Elementor
