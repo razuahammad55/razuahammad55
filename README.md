@@ -1,59 +1,114 @@
 # 👋 Hi, I’m Razu Ahammad
 
-🚀 **WordPress Speed Optimization & Performance Expert**  
-🔐 **WordPress Security Specialist**  
-💼 Full-time Freelancer | Upwork & Fiverr  
+🚀 **WordPress Performance & Speed Optimization Expert**  
+🔐 **WordPress Security & Malware Removal Specialist**  
+🎨 **Elementor Website Designer**
 
-I help businesses **speed up slow WordPress websites**, improve **Core Web Vitals**, and make sites **secure, stable, and SEO-friendly** — without unnecessary custom coding.
+💼 Full-time Freelancer on **Upwork** & **Fiverr**
 
----
-
-## 🧠 What I Do Best
-- ⚡ WordPress Speed Optimization (Mobile & Desktop)
-- 📊 Core Web Vitals & PageSpeed Insights Fix
-- ☁️ WP Rocket + Cloudflare CDN Setup
-- 🔐 WordPress Security & Malware Protection
-- 🧩 Elementor Performance Optimization
-- 🚚 WordPress Migration & Hosting Optimization
+I help businesses build **modern, fast, and secure WordPress websites**.  
+From **designing professional websites with Elementor**, to **fixing hacked sites**, to **optimizing performance for 90+ PageSpeed scores** — I focus on delivering stable, high-quality solutions.
 
 ---
 
-## 🛠 Tools & Technologies
-- **WP Rocket** (Advanced configuration)
-- **Cloudflare CDN** (Free & Pro)
-- LiteSpeed / Apache / Nginx
-- GTmetrix, PageSpeed Insights
-- Elementor, WooCommerce
-- Malware scanning & hardening tools
+# ⚡ My Core Expertise
+
+### 🚀 WordPress Speed Optimization
+- PageSpeed Insights & Core Web Vitals optimization
+- Mobile & desktop performance improvements
+- WP Rocket advanced configuration
+- Cloudflare CDN integration
+- Database and asset optimization
+- Elementor performance tuning
+
+### 🔐 WordPress Security & Malware Removal
+- Fix hacked WordPress websites
+- Malware cleanup (files & database)
+- Backdoor removal and security hardening
+- Brute force protection
+- Two-Factor Authentication (2FA)
+- Vulnerability scanning (Patchstack database)
+- File change monitoring
+- Secure backup configuration
+
+### 🎨 WordPress Website Design (Elementor)
+- Modern responsive website design
+- Figma / XD / PSD to WordPress conversion
+- WooCommerce eCommerce websites
+- Dynamic websites using **JetEngine**
+- Booking & appointment websites using **JetBooking**
+- Charity & non-profit websites
+- Business and agency websites
 
 ---
 
-## 📈 Proven Results
-- PageSpeed score improvements from **20–30 → 95–99**
-- Mobile speed focused optimizations
-- Load time reduced to **~1 second**
-- Clean, bug-free, and stable websites
+# 🛠 Tools & Technologies
+
+**Performance & Optimization**
+- WP Rocket
+- Cloudflare CDN
+- GTmetrix
+- PageSpeed Insights
+- Perfmatters
+
+**WordPress Development**
+- Elementor
+- WooCommerce
+- JetEngine
+- JetBooking
+
+**Infrastructure**
+- LiteSpeed
+- Apache
+- Nginx
+
+**Security**
+- Malware scanning tools
+- WordPress hardening solutions
+- Security monitoring systems
 
 ---
 
-## 🌍 Freelance Platforms
-- 🟢 **Upwork** – Long-term & fixed-price projects
-- 🟢 **Fiverr** – Speed, security & maintenance services
+# 📈 Proven Results
+
+- PageSpeed improvements from **20–30 → 95–99**
+- Websites loading in **~1 second**
+- Stable optimization without breaking functionality
+- Clean, secure WordPress environments
+- Modern, responsive website designs
 
 ---
 
-## 🤝 How I Work
-- Plugin-based, safe optimizations (no risky hacks)
-- Clear communication & honest advice
-- Performance + SEO focused approach
-- Quality work over shortcuts
+# 🌍 Freelance Platforms
+
+I work with clients worldwide through:
+
+🟢 **Upwork** – Long-term collaborations & technical projects  
+🟢 **Fiverr** – Speed optimization, security & website services
 
 ---
 
-## 📫 Let’s Connect
-If your WordPress site is slow or insecure, I can help.  
-Feel free to reach out through **Upwork or Fiverr**.
+# 🤝 My Work Philosophy
+
+✔ Clean and stable solutions  
+✔ Performance and security focused  
+✔ Modern, user-friendly design  
+✔ Honest communication and reliable delivery
+
+I believe a great website should be **fast, secure, and professionally designed**.
 
 ---
 
-⭐ *Speed matters. Security matters. Results matter.*
+# 📫 Let’s Connect
+
+If you need help with:
+
+- WordPress speed optimization
+- Fixing a hacked website
+- Designing a professional Elementor website
+
+Feel free to connect with me through **Upwork or Fiverr**.
+
+---
+
+⭐ *Fast websites perform better. Secure websites build trust.*
