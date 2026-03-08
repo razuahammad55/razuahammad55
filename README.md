@@ -43,9 +43,9 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 
 ## 🛠 Tools & Technologies
 
-<table>
-<tr>
-<td  width="100%" valign="top">
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;width:100%;">
+
+<div>
 
 **Performance & Optimization**
 - WP Rocket
@@ -54,8 +54,9 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - PageSpeed Insights
 - Perfmatters
 
-</td>
-<td  width="100%" valign="top">
+</div>
+
+<div>
 
 **WordPress Development**
 - Elementor
@@ -63,28 +64,28 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 - JetEngine
 - JetBooking
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td  width="100%" valign="top">
+<div>
 
 **Infrastructure**
 - LiteSpeed
 - Apache
 - Nginx
 
-</td>
-<td width="100%" valign="top">
+</div>
+
+<div>
 
 **Security**
 - Malware scanning tools
 - WordPress hardening solutions
 - Security monitoring systems
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
 ---
 
 ## 🤝 Work Approach
