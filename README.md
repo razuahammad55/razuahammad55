@@ -42,19 +42,48 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 ---
 ## 🛠 Tools & Technologies
 
-| **Performance & Optimization** | **WordPress Development** |
-|--------------------------------|---------------------------|
-| - WP Rocket                    | - Elementor               |
-| - Cloudflare CDN               | - WooCommerce             |
-| - GTmetrix                     | - JetEngine               |
-| - PageSpeed Insights           | - JetBooking              |
-| - Perfmatters                  |                           |
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| **Infrastructure**             | **Security**              |
-|--------------------------------|---------------------------|
-| - LiteSpeed                    | - Malware scanning tools  |
-| - Apache                       | - WordPress hardening solutions |
-| - Nginx                        | - Security monitoring systems |
+**Performance & Optimization**
+- WP Rocket
+- Cloudflare CDN
+- GTmetrix
+- PageSpeed Insights
+- Perfmatters
+
+</td>
+<td valign="top" width="50%">
+
+**WordPress Development**
+- Elementor
+- WooCommerce
+- JetEngine
+- JetBooking
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+**Infrastructure**
+- LiteSpeed
+- Apache
+- Nginx
+
+</td>
+<td valign="top" width="50%">
+
+**Security**
+- Malware scanning tools
+- WordPress hardening solutions
+- Security monitoring systems
+
+</td>
+</tr>
+</table>
 
 ---
 
