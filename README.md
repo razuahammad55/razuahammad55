@@ -67,7 +67,7 @@ From **designing professional Elementor websites**, to **fixing hacked WordPress
 </tr>
 
 <tr>
-<td  valign="top">
+<td  width="100%" valign="top">
 
 **Infrastructure**
 - LiteSpeed
